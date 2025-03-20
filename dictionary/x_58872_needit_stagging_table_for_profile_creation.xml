@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="129f4f4bc31022106914b7ddd4013119" extends="sys_import_set_row" label="Stagging table for Profile creation" max_length="40" name="x_58872_needit_stagging_table_for_profile_creation" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Work Phone" label="Work Phone" max_length="40" name="u_work_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User ID" label="User ID" max_length="40" name="u_user_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=VIP" label="VIP" max_length="40" name="u_vip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Employee  Number" label="Employee  Number" max_length="40" name="u_employee__number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Termination Date" label="Termination Date" max_length="40" name="u_termination_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last name" label="Last name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Hire Date" label="Hire Date" max_length="40" name="u_hire_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Department ID" label="Department ID" max_length="40" name="u_department_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Home Country" label="Home Country" max_length="40" name="u_home_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Employee Type" label="Employee Type" max_length="40" name="u_employee_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=First name" label="First name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manager Upi" label="Manager Upi" max_length="40" name="u_manager_upi" type="string"/>
+    </element>
+</database>
